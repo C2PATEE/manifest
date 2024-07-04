@@ -18,6 +18,7 @@
 	<project path="qemu"                 name="qemu.git"                              revision="cca/v3" clone-depth="1" remote="clo" />
 	<project path="qemu.target"          name="qemu.git"                              revision="cca/v3" clone-depth="1" remote="clo" />
 	<project path="trusted-firmware-a"   name="TF-A/trusted-firmware-a.git"           revision="cca/v3" clone-depth="1" remote="clo" />
+	<project path="cloud-hypervisor"     name="cloud-hypervisor"                      revision="cca/v3" remote="clo" />
 	<project path="kvmtool"              name="kvmtool"                               revision="cca/dtb" remote="clo" />
         <project path="hafnium"   name="hafnium/hafnium.git"           revision="refs/tags/v2.10" clone-depth="1" remote="tfo" />
         <project path="u-boot"               name="u-boot.git"                            revision="refs/tags/v2023.07.02" remote="u-boot" clone-depth="1" />
