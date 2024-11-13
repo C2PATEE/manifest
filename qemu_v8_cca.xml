@@ -12,7 +12,7 @@
         </project>
 
         <!-- Misc gits -->
-        <project path="edk2"                 name="tianocore/edk2.git"                    revision="326b9e1d815c4ae4b0b207fcb0bfa16864af5400" sync-s="true" />
+        <project path="edk2"                 name="tianocore/edk2.git"                    revision="2839fed575f0eccae7f5a89f7252487dd058b462" sync-s="true" />
 	<project path="mbedtls"              name="Mbed-TLS/mbedtls.git"                   revision="refs/tags/mbedtls-2.26.0" clone-depth="1" />
         <project path="optee_rust"           name="apache/incubator-teaclave-trustzone-sdk.git"            revision="ec3eefd9de68a18d5acee1a151e0d93f6898807f" />
 	<project path="qemu"                 name="qemu.git"                              revision="cca/v3" clone-depth="1" remote="clo" />
