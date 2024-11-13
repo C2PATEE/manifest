@@ -12,7 +12,7 @@
         </project>
 
         <!-- Misc gits -->
-        <project path="edk2"                 name="tianocore/edk2.git"                    revision="a19f50bb95f70c378488ed5459a1153730c0ef76" sync-s="true" />
+        <project path="edk2"                 name="tianocore/edk2.git"                    revision="2839fed575f0eccae7f5a89f7252487dd058b462" sync-s="true" />
 	<project path="edk2-platforms"       name="edk2-platforms.git"                    revision="cca/v3" remote="clo" sync-s="true" />
         <project path="edk2-non-osi"         name="tianocore/edk2-non-osi.git"            revision="889f9c90de53e7c8729d1f449b8781a5477f0df4" />
 	<project path="mbedtls"              name="Mbed-TLS/mbedtls.git"                   revision="refs/tags/mbedtls-2.26.0" clone-depth="1" />
