@@ -9,9 +9,9 @@
         <project path="optee_test"           name="OP-TEE/optee_test.git" revision="refs/tags/4.2.0" clone-depth="1" />
 
         <!-- linaro-swg gits -->
-        <project path="linux"                name="linux-arm/linux-cca" revision="cca-full/v3" remote="arm-gitlab" clone-depth="1" />
+        <project path="linux"                name="linux-arm/linux-cca" revision="cca-full/v5+v7" remote="arm-gitlab" clone-depth="1" />
         <project path="optee_examples"       name="linaro-swg/optee_examples.git" revision="refs/tags/4.2.0" clone-depth="1" />
 
         <!-- buildroot git -->
-        <project path="buildroot"            name="buildroot/buildroot.git"               revision="refs/tags/2024.05" clone-depth="1" />
+        <project path="buildroot"            name="buildroot/buildroot.git"               revision="refs/tags/2024.08" clone-depth="1" />
 </manifest>
