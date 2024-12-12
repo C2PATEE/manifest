@@ -12,9 +12,9 @@
         </project>
 
         <!-- Misc gits -->
-        <project path="edk2"                 name="tianocore/edk2.git"                    revision="2839fed575f0eccae7f5a89f7252487dd058b462" sync-s="true" />
-	<project path="edk2-platforms"       name="edk2-platforms.git"                    revision="cca/v3" remote="clo" sync-s="true" />
-        <project path="edk2-non-osi"         name="tianocore/edk2-non-osi.git"            revision="889f9c90de53e7c8729d1f449b8781a5477f0df4" />
+        <project path="edk2"                 name="tianocore/edk2.git"                    revision="master" sync-s="true" />
+	<project path="edk2-platforms"       name="tianocore/edk2-platforms.git"          revision="master" sync-s="true" />
+        <project path="edk2-non-osi"         name="tianocore/edk2-non-osi.git"            revision="master" />
 	<project path="mbedtls"              name="Mbed-TLS/mbedtls.git"                   revision="refs/tags/mbedtls-2.26.0" clone-depth="1" />
         <project path="optee_rust"           name="apache/incubator-teaclave-trustzone-sdk.git"            revision="ec3eefd9de68a18d5acee1a151e0d93f6898807f" />
 	<project path="qemu"                 name="qemu/qemu.git"                         revision="refs/tags/v9.1.0" />
