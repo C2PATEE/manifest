@@ -15,11 +15,8 @@
         <project path="edk2"                 name="tianocore/edk2.git"                    revision="2839fed575f0eccae7f5a89f7252487dd058b462" sync-s="true" />
 	<project path="mbedtls"              name="Mbed-TLS/mbedtls.git"                   revision="refs/tags/mbedtls-2.26.0" clone-depth="1" />
         <project path="optee_rust"           name="apache/incubator-teaclave-trustzone-sdk.git"            revision="ec3eefd9de68a18d5acee1a151e0d93f6898807f" />
-	<project path="qemu"                 name="qemu.git"                              revision="cca/v3" clone-depth="1" remote="clo" />
-	<project path="qemu.target"          name="qemu.git"                              revision="cca/v3" clone-depth="1" remote="clo" />
 	<project path="trusted-firmware-a"   name="TF-A/trusted-firmware-a.git"           revision="cca/v4" clone-depth="1" remote="clo" />
 	<project path="cloud-hypervisor"     name="cloud-hypervisor"                      revision="cca/v3" remote="clo" />
-	<project path="kvmtool"              name="kvmtool"                               revision="cca/log" remote="clo" />
 	<project path="buildroot-external-cca"         name="buildroot-external-cca.git"             revision="main" remote="clo" clone-depth="1" />
         <project path="hafnium"   name="hafnium/hafnium.git"           revision="refs/tags/v2.10" clone-depth="1" remote="tfo" />
         <project path="u-boot"               name="u-boot.git"                            revision="refs/tags/v2023.07.02" remote="u-boot" clone-depth="1" />

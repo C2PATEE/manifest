@@ -10,6 +10,7 @@
 
         <!-- linaro-swg gits -->
         <project path="linux"                name="linux-arm/linux-cca" revision="cca-full/v5+v7" remote="arm-gitlab" clone-depth="1" />
+        <project path="qemu"                 name="qemu/qemu.git"                         revision="refs/tags/v9.1.0" />
         <project path="optee_examples"       name="linaro-swg/optee_examples.git" revision="refs/tags/4.2.0" clone-depth="1" />
 
         <!-- buildroot git -->
