@@ -13,7 +13,7 @@
 
         <!-- Misc gits -->
         <project path="edk2"                 name="tianocore/edk2.git"                    revision="cd87106d26577f52a1bf9fec4a208041b0dd0997" sync-s="true" />
-		<project path="edk2-platforms"       name="tianocore/edk2-platforms.git"          revision="ff29897c6f565a87df1f8485c85b89d2c50f7870" sync-s="true" />
+		<project path="edk2-platforms"       name="tianocore/edk2-platforms.git"          revision="400b3e083d5353292def78ea52663c5717e679a2" sync-s="true" />
         <project path="edk2-non-osi"         name="tianocore/edk2-non-osi.git"            revision="45e337daa24b5595be4b81c9f6d379bb105dcc17" />
 		<project path="mbedtls"              name="Mbed-TLS/mbedtls.git"                   revision="refs/tags/mbedtls-2.26.0" clone-depth="1" />
         <project path="optee_rust"           name="apache/incubator-teaclave-trustzone-sdk.git"            revision="ec3eefd9de68a18d5acee1a151e0d93f6898807f" />
