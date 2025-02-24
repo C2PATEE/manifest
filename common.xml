@@ -9,7 +9,7 @@
         <project path="optee_test"           name="OP-TEE/optee_test.git" revision="refs/tags/4.2.0" clone-depth="1" />
 
         <!-- linaro-swg gits -->
-        <project path="linux"                name="linux-arm/linux-cca" revision="cca-host/v6" remote="arm-gitlab" clone-depth="1" />
+        <project path="linux"                name="linux-arm/linux-cca" revision="cca-host/v7" remote="arm-gitlab" clone-depth="1" />
 		<project path="qemu"                 name="qemu/qemu.git"                         revision="refs/tags/v9.2.1" />
         <project path="optee_examples"       name="linaro-swg/optee_examples.git" revision="refs/tags/4.2.0" clone-depth="1" />
 

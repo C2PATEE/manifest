@@ -19,7 +19,7 @@
         <project path="optee_rust"           name="apache/incubator-teaclave-trustzone-sdk.git"            revision="ec3eefd9de68a18d5acee1a151e0d93f6898807f" />
 		<project path="trusted-firmware-a"   name="TF-A/trusted-firmware-a.git"           revision="78541c03028d9d7cd851dbec6f2e5c4ae25e5193" clone-depth="1" remote="clo" />
 		<project path="cloud-hypervisor"     name="cloud-hypervisor"                      revision="f196d1e424eb928cfbb15264d0d32f0d2cf7da19" remote="clo" />
-		<project path="buildroot-external-cca"         name="buildroot-external-cca.git"             revision="595a15f137395ea2c89b2c1294c50f8eaa85d39f" remote="clo" clone-depth="1" />
+		<project path="buildroot-external-cca"         name="buildroot-external-cca.git"             revision="7abfc82bed0648f4cfc584b1dd618c6d9de52536" remote="clo" clone-depth="1" />
         <project path="u-boot"               name="u-boot.git"                            revision="refs/tags/v2023.07.02" remote="u-boot" clone-depth="1" />
 		<project path="rmm"                  name="rmm"                                   revision="1b6bdf835fbf7a7d66086abc21410a23f9ef06f0" remote="clo" sync-s="true" />
 </manifest>
